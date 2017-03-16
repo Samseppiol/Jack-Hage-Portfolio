@@ -20,8 +20,8 @@ body {
 
 h1 {
   font-family: 'Carme', sans-serif;
+  margin-top: 18%;
   position: relative;
-  margin-top: 15%;
   font-size: 5em;
 }
 
@@ -33,16 +33,7 @@ h2 {
 
 }
 
-#content .content-image{
-  width: 50%;
-  height: 50vh;
-}
-
-
-
-
-
-
 #content {
   background-color: red;
+  position: relative;
 }
