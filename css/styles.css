@@ -1,5 +1,6 @@
 body {
   margin: auto;
+  color: red;
 }
 
 #container img {
@@ -11,7 +12,25 @@ body {
 #content {
   z-index: 100;
   position: absolute;
- color: white;
- left: 10px;
- top: 0px
+  color: white;
+  left: 0px;
+  top: 0px;
+}
+
+#content h1 {
+  font-family: 'Hind', sans-serif;
+  margin-top: 45px;
+  margin-left: 10px;
+  font-size: 32px;
+  padding: 0;
+  border: 0;
+}
+
+#content h2 {
+  font-family: 'Hind', sans-serif;
+  font-size: 28px;
+  border: 0;
+  padding: 0;
+  margin-left: 10px;
+  margin-top: -25px
 }
