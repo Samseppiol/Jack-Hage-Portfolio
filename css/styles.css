@@ -1,7 +1,11 @@
-body {
-  margin: auto;
-  color: red;
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
+
 }
+
+/*Mobile Styling Begins Here!*/
 
 #container img {
   height: 100vh;
@@ -9,7 +13,7 @@ body {
   position: relative;
 }
 
-#content {
+#head-content {
   z-index: 100;
   position: absolute;
   color: white;
@@ -17,7 +21,7 @@ body {
   top: 0px;
 }
 
-#content h1 {
+#head-content h1 {
   font-family: 'Hind', sans-serif;
   margin-top: 45px;
   margin-left: 10px;
@@ -26,11 +30,87 @@ body {
   border: 0;
 }
 
-#content h2 {
+#head-content h2 {
   font-family: 'Hind', sans-serif;
   font-size: 28px;
   border: 0;
   padding: 0;
   margin-left: 10px;
-  margin-top: -25px
 }
+
+.nav {
+  margin-left: 310px;
+  text-decoration: none;
+  list-style-type: none;
+
+}
+
+.nav-button {
+  color: white;
+  list-style-type: none;
+  margin-top: 10px;
+  font-size: 30px;
+}
+
+#success {
+margin-left: 90px;
+margin-top: 150px;
+font-family: "Handlee";
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 100%;
+color: #FFFFFF;
+opacity: 1.00;
+}
+
+main {
+  margin-top: -5px;
+  background-image: url('../images/fuzzyblack.jpg')
+}
+
+.content-image {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  min-width: 340px;
+  max-width: 340px;
+  min-height: 220px;
+  max-height: 220px;
+}
+
+p {
+  font-family: 'Monda', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Hind', sans-serif;
+  font-size: 28px;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Hind', sans-serif;
+  font-size: 24px;
+  text-align: center;
+}
+
+footer {
+  background: black;
+}
+
+#footer-nav {
+  font-size: 30px;
+  margin-left: 30px;
+  list-style-type: none;
+}
+/*Mobile Styling Finishes Here!*/
