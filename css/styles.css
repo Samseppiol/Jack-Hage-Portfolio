@@ -1,0 +1,17 @@
+body {
+  margin: auto;
+}
+
+#container img {
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+}
+
+#content {
+  z-index: 100;
+  position: absolute;
+ color: white;
+ left: 10px;
+ top: 0px
+}
