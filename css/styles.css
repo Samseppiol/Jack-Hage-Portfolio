@@ -1,9 +1,11 @@
 * {
+  border: 0;
   margin: 0;
   padding: 0;
   color: white;
 
 }
+
 
 /*Mobile Styling Begins Here!*/
 
@@ -39,7 +41,7 @@
 }
 
 .nav {
-  margin-left: 310px;
+  margin-left: 330px;
   text-decoration: none;
   list-style-type: none;
 
@@ -70,6 +72,7 @@ main {
 }
 
 .content-image {
+  margin: auto;
   padding-left: 10px;
   padding-right: 10px;
   padding-top: 10px;
@@ -105,12 +108,12 @@ h4 {
 }
 
 footer {
+  border-top: 2px solid white;
   background: black;
 }
 
-#footer-nav {
+.footer-link {
+  margin: 22px;
   font-size: 30px;
-  margin-left: 30px;
-  list-style-type: none;
 }
-/*Mobile Styling Finishes Here!*/
+/*Mlobile styling finished here*/
