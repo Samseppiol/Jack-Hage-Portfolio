@@ -15,6 +15,20 @@
   position: relative;
 }
 
+.header-nav {
+  height: auto;
+  width: 100vw;
+  border-top: 2px solid white;
+  background: black;
+  position: fixed;
+}
+
+.nav-button {
+  color: black;
+  font-size: 30px;
+  margin: 22px;
+}
+
 #head-content {
   z-index: 100;
   position: absolute;
@@ -40,23 +54,9 @@
   margin-left: 10px;
 }
 
-.nav {
-  margin-left: 330px;
-  text-decoration: none;
-  list-style-type: none;
-
-}
-
-.nav-button {
-  color: white;
-  list-style-type: none;
-  margin-top: 10px;
-  font-size: 30px;
-}
-
 #success {
 margin-left: 90px;
-margin-top: 150px;
+margin-top: 250px;
 font-family: "Handlee";
 font-style: normal;
 font-weight: normal;
@@ -66,6 +66,10 @@ color: #FFFFFF;
 opacity: 1.00;
 }
 
+
+.main-heading {
+  padding-top: 40px;
+}
 main {
   margin-top: -5px;
   background-image: url('../images/fuzzyblack.jpg')
@@ -94,6 +98,8 @@ p {
   padding-top: 10px;
   padding-bottom: 10px;
 }
+
+
 
 h3 {
   font-family: 'Hind', sans-serif;
