@@ -6,6 +6,9 @@
   color: white;
 }
 
+body {
+    background-image: url('../images/fuzzyblack.jpg');
+}
 
 /*Mobile Styling Begins Here!*/
 
@@ -32,11 +35,13 @@
 }
 
 #head-content {
+  height: 100vh;
   z-index: 100;
   position: absolute;
   color: white;
-  left: 0px;
-  top: 0px;
+  left: 0;
+  top: 0;
+  right: 0;
 }
 
 #head-content h1 {
@@ -57,7 +62,10 @@
 }
 
 #success {
-margin-left: 90px;
+position: absolute;
+bottom: 10%;
+left: 50%;
+margin-left: -3.5em;
 margin-top: 250px;
 font-family: "Handlee";
 font-style: normal;
@@ -68,23 +76,25 @@ color: #FFFFFF;
 opacity: 1.00;
 }
 
+main {
+  max-width: 900px;
+  margin: auto;
+
+}
 
 .main-heading {
   padding-top: 50px;
 }
 
-main {
-  margin-top: -5px;
-  background-image: url('../images/fuzzyblack.jpg')
-}
-
 .content-image {
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 3%;
+  padding-right: 3%;
   padding-top: 10px;
   padding-bottom: 10px;
-  width: 95vw;
-  height: 45vh;
+  width: 94%;
+  max-width: 100%;
+  height: auto;
+  max-height: 500px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -108,8 +118,8 @@ p {
   font-weight: 300;
   font-size: 18px;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 3vw;
+  padding-right: 3vw;
   padding-top: 10px;
   padding-bottom: 10px;
 }
@@ -136,18 +146,16 @@ footer {
 
   #head-content h1 {
     margin-top: 90px;
-    margin-left: 20px;
+    margin-left: 5vw;
     font-size: 64px;
   }
 
   #head-content h2 {
     font-size: 56px;
-    margin-left: 20px;
+    margin-left: 6.5%;
   }
 
   #success {
-    margin-left: 205px;
-    margin-top: 450px;
     font-size: 48px;
   }
 
@@ -175,10 +183,5 @@ footer {
     margin: 7%;
     font-size: 3em;
   }
-
-
-
-
-
 
 }
