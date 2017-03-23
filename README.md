@@ -1,4 +1,6 @@
 Go to my site yo!!!
+Launched on AWS:
+http://jack-hage.com
 
 
 
