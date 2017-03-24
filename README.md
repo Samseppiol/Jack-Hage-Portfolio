@@ -2,6 +2,14 @@ Go to my site yo!!!
 Launched on AWS:
 http://jack-hage.com
 
+Key Points:
+
+Severely under estimated the importance of mockups.
+
+Coded mobile first then slowly expanded. Now fully responsive.
+
+Launched on AWS
+
 
 
 23-02-2017
