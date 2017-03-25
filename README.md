@@ -1,6 +1,6 @@
 Go to my site yo!!!
 Launched on AWS:
-http://jack-hage.com
+http://www.jack-hage.com
 
 Key Points:
 
