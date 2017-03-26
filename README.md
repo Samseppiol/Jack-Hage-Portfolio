@@ -1,15 +1,18 @@
-#Launched On AWS:
+# Launched On AWS:
 http://www.jack-hage.com
 
-#Key Points
+# Mockup/design
+https://www.figma.com/file/Bf41ZvP3dI1GMq8yshdGhIVD/Proper-Mockups?node-id=7%3A35
 
-Severely under estimated the importance of mockups.
+# Key Points
 
-Coded mobile first then slowly expanded. Now fully responsive.
+## Severely under estimated the importance of mockups.
 
-Launched on AWS
+## Coded mobile first then slowly expanded. Now fully responsive.
 
-#Aim
+## Launched on AWS
+
+# Aim
 > I wanted to produce a website that accurately represented both my skill sets in front end development and my preference in layouts and colours. A simple yet clean approach, I want to display as much vital information about myself yet be extremely brief and keep the viewers interested enough to continue reading/scrolling.
 
 # Design
@@ -19,18 +22,32 @@ Launched on AWS
 > I can't stand overbearing fonts. I believe a simple, structured clean font is always going to be the best for reading. Easy to read, nice to look at and neat. My font decisions were a rather peculiar process. I would go to the google fonts website and scroll as fast as possible and suddenly stop, examine the fonts displayed on the page and test them out on my figma mockup. I found Hind and Monda to be quite appealing and exactly what I was looking for. I also found Handlee to have the simpleness I was after but also to look a bit fancy to break the monotony.
 ![handlee](references/handlee.png)
 ![hind](references/Hind.png)
-![monda](references/Mandlee.png)
+![monda](references/Monda.png)
 
 # Intro Page
 > I believe the first page that a user arrives on in a website is the most important. I kept information and text to a minimal to avoid immediate boredom. I wanted something to capture my user and make them intrigued and want to scroll down to find out information about me. I viewed hundreds of different suitable background images and narrowed it down to few choices. Once again I wanted to find the niche between boring and overbearing.
 
+# Content
+> I wanted to display as much vital content as possible yet at the same time be very brief. In my opinion a portfolio is similar to a resume in the sense that an employer will be on my site for 20-30 seconds. Therefore I avoided like the plague 1000 word monologues telling my life story. I wanted the first content the user would see was what I am doing. In the future I can easily adapt/change this area to seeking employment, self learning, working at "" etc. I thought while I still have their attention to get the most important part out first. I also wanted to explain why I am doing what I am doing. In my work history I really wanted to highlight my vast experience in my family business because I believe that has vital importance when compared to traits commonly sought after in software development. I also used pictures to provide a bit of personality, as well as the old saying " a picture tells a thousand words."
+
+# The Build
+> I would say I was borderline ignorant when I thought I didn't need a design/mockup and I could do that no problems. Boy was I wrong and I am glad I figured that out with a bit of time to spare. I believe my HTML structure was excellent however without a solid plan, the CSS part was a real struggle. I completely redesigned my website on figma paying close attention to details of fonts, padding, borders, sizes etc. From there I wrote css mobile first as advised by my teacher Patrick. Constantly doubting myself and having meltdowns. I decided to use bootstrap and then decided not to use bootstrap atleast 5 different times. I eventually calmed myself down and reminded myself my beginning intent was to write pure html and css. I got mobile working, added a media query for 768 px and 1440 but nothing minor changes, just sizes of fonts and headings.I was trying to implement something else when I accidentally put in a header nav bar that only appears once the user is in the content/main of my website. I liked it so I decided to keep it.
+
+# Future changes
+> I want to change my ruby project image to a transitioning image of the example used as well as a screenshot of some code I wrote. Same as my tesla clone example I would like to have an image transition between google, tesla and pinterest clones I created.
+
+# End Notes
+> Even though HTML is commonly looked down on as easy because it technically isn't a programming language I pride myself on my neat, well structured, readable code used in my index html file. I find that badly/lazy written HTML can be an absolute nightmare both to read and to navigate around. I purposely lay out my code with the intent for anyone reading it to be able to follow along easily and not get lost in an endless maze of HTML.
 
 
-
-
-
-
-
+# Tools used
+> 
+- Figma
+- FontAwesome
+- Googlefonts
+- Google Chrome Developer Tools
+- Atom text Editor
+- Udemy
 
 
 
