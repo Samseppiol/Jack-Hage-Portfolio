@@ -31,7 +31,7 @@ https://www.figma.com/file/Bf41ZvP3dI1GMq8yshdGhIVD/Proper-Mockups?node-id=7%3A3
 > I wanted to display as much vital content as possible yet at the same time be very brief. In my opinion a portfolio is similar to a resume in the sense that an employer will be on my site for 20-30 seconds. Therefore I avoided like the plague 1000 word monologues telling my life story. I wanted the first content the user would see was what I am doing. In the future I can easily adapt/change this area to seeking employment, self learning, working at "" etc. I thought while I still have their attention to get the most important part out first. I also wanted to explain why I am doing what I am doing. In my work history I really wanted to highlight my vast experience in my family business because I believe that has vital importance when compared to traits commonly sought after in software development. I also used pictures to provide a bit of personality, as well as the old saying " a picture tells a thousand words."
 
 # The Build
-> I would say I was borderline ignorant when I thought I didn't need a design/mockup and I could do that no problems. Boy was I wrong and I am glad I figured that out with a bit of time to spare. I believe my HTML structure was excellent however without a solid plan, the CSS part was a real struggle. I completely redesigned my website on figma paying close attention to details of fonts, padding, borders, sizes etc. From there I wrote css mobile first as advised by my teacher Patrick. Constantly doubting myself and having meltdowns. I decided to use bootstrap and then decided not to use bootstrap atleast 5 different times. I eventually calmed myself down and reminded myself my beginning intent was to write pure html and css. I got mobile working, added a media query for 768 px and 1440 but nothing minor changes, just sizes of fonts and headings.I was trying to implement something else when I accidentally put in a header nav bar that only appears once the user is in the content/main of my website. I liked it so I decided to keep it.
+> I would say I was borderline ignorant when I thought I didn't need a design/mockup and I could do that no problems. Boy was I wrong and I am glad I figured that out with a bit of time to spare. I believe my HTML structure was excellent however without a solid plan, the CSS part was a real struggle. I completely redesigned my website on figma paying close attention to details of fonts, padding, borders, sizes etc. From there I wrote css mobile first as advised by my teacher Patrick. Constantly doubting myself and having meltdowns. I decided to use bootstrap and then decided not to use bootstrap atleast 5 different times. I eventually calmed myself down and reminded myself my beginning intent was to write pure html and css. I got mobile working, added a media query for 768 px and 1440 but only minor changes, just sizes of fonts and headings. I was trying to implement something else when I accidentally put in a header nav bar that only appears once the user is in the content/main of my website. I liked it so I decided to keep it.
 
 # Future changes
 > I want to change my ruby project image to a transitioning image of the example used as well as a screenshot of some code I wrote. Same as my tesla clone example I would like to have an image transition between google, tesla and pinterest clones I created.
@@ -41,7 +41,7 @@ https://www.figma.com/file/Bf41ZvP3dI1GMq8yshdGhIVD/Proper-Mockups?node-id=7%3A3
 
 
 # Tools used
-> 
+>
 - Figma
 - FontAwesome
 - Googlefonts
