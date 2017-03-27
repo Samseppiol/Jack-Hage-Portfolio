@@ -20,9 +20,10 @@ https://www.figma.com/file/Bf41ZvP3dI1GMq8yshdGhIVD/Proper-Mockups?node-id=7%3A3
 
 # Fonts
 > I can't stand overbearing fonts. I believe a simple, structured clean font is always going to be the best for reading. Easy to read, nice to look at and neat. My font decisions were a rather peculiar process. I would go to the google fonts website and scroll as fast as possible and suddenly stop, examine the fonts displayed on the page and test them out on my figma mockup. I found Hind and Monda to be quite appealing and exactly what I was looking for. I also found Handlee to have the simpleness I was after but also to look a bit fancy to break the monotony.
+
 ![handlee](references/handlee.png)
-![hind](references/Hind.png)
 ![monda](references/Monda.png)
+![hind](references/Hind.png)
 
 # Intro Page
 > I believe the first page that a user arrives on in a website is the most important. I kept information and text to a minimal to avoid immediate boredom. I wanted something to capture my user and make them intrigued and want to scroll down to find out information about me. I viewed hundreds of different suitable background images and narrowed it down to few choices. Once again I wanted to find the niche between boring and overbearing.
