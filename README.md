@@ -1,5 +1,10 @@
-# Launched On AWS:
-http://www.jack-hage.com
+# 2018 Revamp
+## Come back to my personal site and doing a few updates and changes.
+
+# Entirely serverless on AWS.
+
+
+# 2017 original work: 
 
 # Mockup/design
 https://www.figma.com/file/Bf41ZvP3dI1GMq8yshdGhIVD/Proper-Mockups?node-id=7%3A35

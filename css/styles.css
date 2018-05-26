@@ -1,3 +1,37 @@
+.split {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+/* Control the left side */
+.left {
+  left: 0;
+  background-color: #111;
+}
+
+/* Control the right side */
+.right {
+  right: 0;
+  background-image: url('./images/background-min.jpg')
+}
+
+/* If you want the content centered horizontally and vertically */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+/* Style the image inside the centered container, if needed */
+
+
 * {
   font-size: 16;
   border: 0;
@@ -11,11 +45,11 @@ body {
 }
 
 /*Mobile Styling Begins Here!*/
-
 #container img {
   height: 100vh;
   width: 100vw;
   position: relative;
+  z-index: 0;
 }
 
 a :hover {
@@ -33,19 +67,20 @@ a {
 }
 
 .header-nav {
-  text-align: center;
-  height: auto;
-  width: 100vw;
-  border-top: 2px solid white;
-  background: black;
-  position: fixed;
-  border-bottom: 2px solid white;
+  height: 10%; /* 100% Full-height */
+  width: 50vw;; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 60px; /* Place content 60px from the top */
 }
-
+.fa {
+  font-size: 4rem;
+}
 .nav-button {
-  color: black;
-  font-size: 1.5rem;
-  margin: 6.5%;
+  font-size: 5rem;
+  margin: 10%;
 }
 
 #head-content {
@@ -220,3 +255,6 @@ footer {
     font-size: 60px;
   }
 }
+
+
+
