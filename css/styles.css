@@ -10,6 +10,7 @@ body {
     background-image: url('../images/fuzzybg.png');
 }
 #content {
+  padding-top: 7.5vh;
   padding-bottom: 19.5vh;
 }
 
