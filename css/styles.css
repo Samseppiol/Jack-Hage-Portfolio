@@ -230,3 +230,10 @@ footer {
     font-size: 60px;
   }
 }
+
+/* Prevent text overlay when mobile devices are put on their side */
+@media screen and (max-height: 600px) {
+  #success {
+    visibility: hidden;
+  }
+}
