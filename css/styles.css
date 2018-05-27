@@ -9,9 +9,15 @@
 body {
     background-image: url('../images/fuzzybg.png');
 }
+#content {
+  padding-bottom: 15vh;
+}
 
 /*Mobile Styling Begins Here!*/
 
+.main-intro {
+  font-family: 'handlee'
+}
 #container img {
   height: 100vh;
   width: 100vw;
@@ -59,7 +65,7 @@ a {
 }
 
 #head-content h1 {
-  font-family: 'Hind', sans-serif;
+  font-family: 'handlee';
   margin-top: 45px;
   margin-left: 10px;
   font-size: 32px;
@@ -68,7 +74,7 @@ a {
 }
 
 #head-content h2 {
-  font-family: 'Hind', sans-serif;
+  font-family: 'handlee';
   font-size: 28px;
   border: 0;
   padding: 0;
@@ -166,11 +172,13 @@ footer {
     margin-top: 90px;
     margin-left: 5vw;
     font-size: 64px;
+    font-family: 'handlee'
   }
 
   #head-content h2 {
     font-size: 56px;
     margin-left: 6.5%;
+    font-family: 'handlee';
   }
 
   #success {
@@ -210,11 +218,13 @@ footer {
     margin-top: 90px;
     margin-left: 5vw;
     font-size: 90px;
+    font-family: 'handlee'
   }
 
   #head-content h2 {
     font-size: 70px;
     margin-left: 6.5%;
+    font-family: 'handlee'
   }
   #success {
     font-size: 60px;
