@@ -5,6 +5,9 @@
 
 > https://portfolio.jackhage.info/
 
+
+# Upgrades/enhancements for the future
+> Rewrite with react, create everything with components. Add more content - possibly expand more on work knowledge and personal projects, have main section where content changes depending on toolbar/navbar click/request. 
 # 2017 original work: 
 
 # Mockup/design
